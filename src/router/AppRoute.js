@@ -3,7 +3,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 import { CreateCard } from '../componentes/CreateCard';
 import { Cards } from '../componentes/Cards';

@@ -1,3 +1,3 @@
 import { createContext } from 'react';
 
-export const FichasContext = createContext(null)
+export const FichasContext = createContext([])
